@@ -141,7 +141,7 @@ namespace MeaningfulCalculation
                D =( k2.Con + p1k2Dex + k2ConRoll));
 
             p2k2str = checkp2(B = (k2.Str + p1k2Prec + k2StrRoll),
-               C =( k1.Con + p1k1Dex + k1ConRoll));
+               C =( k1.Con + p1k1Dex + k1ConRoll)); 
         }
 
         int Phase3(StringBuilder sb)
